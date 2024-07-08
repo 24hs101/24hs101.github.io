@@ -1,0 +1,5 @@
+p { color: yellow; }
+.hello {color: green;}
+#birth {color: pink;}
+.back {color: blue;}
+#gradient {background: linear-gradient(to right , #38a092 , #fdbf3b);color: white;}
